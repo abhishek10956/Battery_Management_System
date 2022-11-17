@@ -14,5 +14,5 @@ To deploy this project
 3. Otherwise, go to the link, https://in.mathworks.com/store/link/products/student/SV?s_tid=ac_buy_sv_but1  to buy license and install the software.
 4. Clone this project.
 5. Or go to Simulink > New project from source code > git > retrieve.  
-6. Go to the Simulink tab on MATLAB interface and run these simulations.
+6. Go to the MATLAB > Home > Simulink > Open file location > Run and run these simulations.
 ```
