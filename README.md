@@ -21,7 +21,8 @@ To deploy this project
 ## Screenshots
 
 ```
-<img width="791" alt="Screenshot 2022-11-17 181553" src="https://user-images.githubusercontent.com/116304936/202453469-ace59413-a89e-4133-94ba-4c694a85ce5f.png">
-<img width="960" alt="Screenshot 2022-11-17 181839" src="https://user-images.githubusercontent.com/116304936/202453551-3caae31e-f100-4aae-bf44-59e38afa11c8.png">
-<img width="896" alt="Screenshot 2022-11-17 182107" src="https://user-images.githubusercontent.com/116304936/202453579-3f74aab5-7922-4dd1-af1b-8231cd47b977.png">
-<img width="960" alt="Screenshot 2022-11-17 182230" src="https://user-images.githubusercontent.com/116304936/202453603-85ddd902-b9c8-4a79-b07a-f08bf699db85.png">
+<img width="791" alt="Screenshot 2022-11-17 181553" src="https://user-images.githubusercontent.com/116304936/202456390-0d3ce050-1058-45b5-bd20-b9be3daba2d6.png">
+<img width="960" alt="Screenshot 2022-11-17 181839" src="https://user-images.githubusercontent.com/116304936/202456477-e63bf979-1217-4fa5-8c26-aefc3307fedd.png">
+<img width="896" alt="Screenshot 2022-11-17 182107" src="https://user-images.githubusercontent.com/116304936/202456535-95225db0-44d1-4a73-a477-7f1bd34cfe12.png">
+<img width="960" alt="Screenshot 2022-11-17 182230" src="https://user-images.githubusercontent.com/116304936/202456568-b4e422f1-522d-4093-ada8-f9b1db482b90.png">
+
