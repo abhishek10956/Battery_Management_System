@@ -21,7 +21,7 @@ To deploy this project
 
 
 PASSIVE CELL BALANCING
-<br /> The "fcn" Block at right has code written inside to regulate the geat dissipation of cells having different emfs.
+<br /> The "fcn" Block at right has code written inside to regulate the heat dissipation of cells having different emfs.
 
 <img width="791" alt="Screenshot 2022-11-17 181553" src="https://user-images.githubusercontent.com/116304936/203603974-b4e01f27-005a-49d4-afb2-26e891105c50.png">
 
